@@ -9,5 +9,3 @@ fi
 # Run the Python code
 python3 -c "$PYCODE"
 
-# Exit with success
-exit 0
