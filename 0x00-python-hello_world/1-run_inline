@@ -7,7 +7,7 @@ if [ -z "$PYCODE" ]; then
 fi
 
 # Run the Python code
-python -c "$PYCODE"
+python3 -c "$PYCODE"
 
 # Exit with success
 exit 0
